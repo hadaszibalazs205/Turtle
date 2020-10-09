@@ -9,6 +9,9 @@ def sokszog(szogekszama, hossz, szin):
         alex.forward(hossz)
         alex.left(360/szogekszama)
         
- sokszog(5, 25, *red*)
- sokszog(10, 50, *green*)
- sokszog(15, 75, *blue*)
+sokszog(5, 10, "red")
+sokszog(5, 20, "green")
+sokszog(5, 30, "blue")
+sokszog(5, 40, "brown")
+sokszog(5, 50, "yellow")
+sokszog(5, 60, "black")
